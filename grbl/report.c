@@ -372,7 +372,7 @@ void report_build_info(char *line)
   //printPgmString(PSTR("[VER:" GRBL_VERSION "." GRBL_VERSION_BUILD ":"));
   //printString(line);
   //report_util_feedback_line_feed();
-  printPgmString(PSTR("[PolyShaper Oranje][0.1]"));
+  printPgmString(PSTR(POLYSHAPER_VERSION_STRING));
   report_util_line_feed();
   printPgmString(PSTR("[OPT:")); // Generate compile-time build option list
   #ifdef VARIABLE_SPINDLE
