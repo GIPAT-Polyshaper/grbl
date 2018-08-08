@@ -628,7 +628,7 @@
 // ------------------------------ PolyShpaer customizations ------------------------------
 // ---------------------------------------------------------------------------------------
 
-#define POLYSHAPER_VERSION_STRING "[PolyShaper Oranje][0.1]"
+#define POLYSHAPER_VERSION_STRING "[PolyShaper Oranje][PC205005007-1.0 1807000 1.0]"
 #define POLYSHAPER_HARD_RESET_CMD 0xC0
 
 // ---------------------------------------------------------------------------------------
